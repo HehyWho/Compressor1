@@ -1,9 +1,0 @@
-1. Edit text file
-2. type "cmd" in the folder
-
-3. enter: git add "file name"
-4. enter: git commit -m "description"
-5. enter: git push origin
-
-Update every 10 days / Last update: March 11, 2026
-allhosts: January 31, 2026
